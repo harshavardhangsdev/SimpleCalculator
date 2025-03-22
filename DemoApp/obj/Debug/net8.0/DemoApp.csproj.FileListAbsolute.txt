@@ -1,0 +1,14 @@
+/home/harsha/Desktop/Projects/DemoApp/bin/Debug/net8.0/DemoApp
+/home/harsha/Desktop/Projects/DemoApp/bin/Debug/net8.0/DemoApp.deps.json
+/home/harsha/Desktop/Projects/DemoApp/bin/Debug/net8.0/DemoApp.runtimeconfig.json
+/home/harsha/Desktop/Projects/DemoApp/bin/Debug/net8.0/DemoApp.dll
+/home/harsha/Desktop/Projects/DemoApp/bin/Debug/net8.0/DemoApp.pdb
+/home/harsha/Desktop/Projects/DemoApp/obj/Debug/net8.0/DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/harsha/Desktop/Projects/DemoApp/obj/Debug/net8.0/DemoApp.AssemblyInfoInputs.cache
+/home/harsha/Desktop/Projects/DemoApp/obj/Debug/net8.0/DemoApp.AssemblyInfo.cs
+/home/harsha/Desktop/Projects/DemoApp/obj/Debug/net8.0/DemoApp.csproj.CoreCompileInputs.cache
+/home/harsha/Desktop/Projects/DemoApp/obj/Debug/net8.0/DemoApp.dll
+/home/harsha/Desktop/Projects/DemoApp/obj/Debug/net8.0/refint/DemoApp.dll
+/home/harsha/Desktop/Projects/DemoApp/obj/Debug/net8.0/DemoApp.pdb
+/home/harsha/Desktop/Projects/DemoApp/obj/Debug/net8.0/DemoApp.genruntimeconfig.cache
+/home/harsha/Desktop/Projects/DemoApp/obj/Debug/net8.0/ref/DemoApp.dll
